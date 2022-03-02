@@ -1,5 +1,7 @@
 # Hola 👋, soy Dary Altamirano
-# Frontend and Backend Developer
+## Frontend and Backend Developer
+
+![Frontend and Backend Developer](https://i.ibb.co/nLj0Skj/banner.png)
 
 - **FrontEnd** : VUE JS / REACT / JS / HTML / CSS / TS
 - **BackEnd** : PYTHON / DJANGO / PHP / NODE 
