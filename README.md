@@ -1,12 +1,12 @@
-### Hola 👋, soy Dary Altamirano Bienvenido
-#### Frontend and Backend Developer
+# Hola 👋, soy Dary Altamirano
+# Frontend and Backend Developer
 
-FrontEnd: VUE JS / REACT / JS / HTML / CSS / TS
-BackEnd: PYTHON / DJANGO / PHP / NODE 
-Otras habilidades: PATRONES DE DISEÑO / MVP / FIREBASE 
+- **FrontEnd** : VUE JS / REACT / JS / HTML / CSS / TS
+- **BackEnd** : PYTHON / DJANGO / PHP / NODE 
+- **Otras habilidades** : PATRONES DE DISEÑO / MVP / FIREBASE 
+- **DB** : SQL
 
-
-- 📫 Cómo contactarme: altamiranodary16@gmail.com 
+📫 Cómo contactarme: altamiranodary16@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DaryAltamirano)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/daryaltamirano//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/AltamiranoDary)  
